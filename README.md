@@ -16,7 +16,7 @@ A fully functional **YouTube Clone** built using **React.js** and **Tailwind CSS
 - **YouTube API (Google API)** (Data Fetching)  
 
 ## 📸 Preview  
-![YouTube Clone Screenshot](./screenshot.png)  
+![YouTube Clone Screenshot](./public/screenshot.png)  
 *(Replace with an actual screenshot of your app)*  
 
 ## 🎯 How to Use  
